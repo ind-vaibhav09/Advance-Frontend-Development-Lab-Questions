@@ -1,0 +1,77 @@
+<!-- 
+Online HTML, CSS and JavaScript editor to run code online.
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Table</title>
+</head>
+
+<body>
+<table cellspacing ="0" border="2" align ="center" width="80%">
+  <tr> 
+   
+    <td>
+    <h2 align ="center">Subjects</h2>
+      <ol>
+        <li><font color = "red">Maths</font></li>
+         <li><font color = "blue">Science</font></li>
+           <li><font color = "pink">English</font></li>
+             <li><font color = "green">Hindi</font></li>
+               <li><font color = "purple">IT</font></li>
+                 <li><font color = "aqua">SST</font></li>
+      </ol>
+    </td>
+    
+     <td>
+       <h2 align ="center">Fruits</h2>
+     <ol>
+        <li><font color = "red">Apple</font></li>
+         <li><font color = "blue">Blueberry</font></li>
+           <li><font color = "pink">Strawberry</font></li>
+             <li><font color = "green">Grapes</font></li>
+               <li><font color = "purple">Dragon Fruit</font></li>
+                 <li><font color = "aqua">Banana</font></li>
+      </ol>
+       </td>
+    </tr>
+  
+  <tr>
+    <td>
+      <h2 align ="center">Weekdays</h2>
+      <ol>
+        <li><font color = "red">Sunday</font></li>
+         <li><font color = "blue">Monday</font></li>
+           <li><font color = "pink">Tuesday</font></li>
+             <li><font color = "green">Wednesday</font></li>
+               <li><font color = "violet">Thursday</font></li>
+                 <li><font color = "purple">Friday</font></li>
+                 <li><font color = "aqua">Sarurday</font></li>
+      </ol>
+    </td>
+    
+     <td>
+       <h2 align ="center">Months</h2>
+     <ol start="6">
+        <li><font color = "red">June</font></li>
+         <li><font color = "blue">July</font></li>
+           <li><font color = "pink">August</font></li>
+             <li><font color = "green">September</font></li>
+               <li><font color = "purple">Octobar</font></li>
+                 <li><font color = "aqua">November</font></li>
+      </ol>
+       </td>
+    </tr>
+  
+  
+      
+      </table>     
+             
+             
+</body>
+
+</html>
